@@ -1,0 +1,64 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "level": "HSK 1-2",
+      "title": "Beginner Chinese",
+      "duration": "3 months",
+      "sessions": "24 sessions",
+      "price": "PKR 15,000",
+      "iconType": "book",
+      "highlights": [
+        "Pinyin system mastery",
+        "Basic conversations",
+        "150 essential characters",
+        "Greetings & daily phrases"
+      ]
+    },
+    {
+      "id": 2,
+      "level": "HSK 3-4",
+      "title": "Intermediate Chinese",
+      "duration": "6 months",
+      "sessions": "48 sessions",
+      "price": "PKR 28,000",
+      "iconType": "book",
+      "highlights": [
+        "Business communication",
+        "600 characters",
+        "Listening & reading",
+        "Cultural context"
+      ]
+    },
+    {
+      "id": 3,
+      "level": "HSK 5-6",
+      "title": "Advanced Chinese",
+      "duration": "12 months",
+      "sessions": "96 sessions",
+      "price": "PKR 50,000",
+      "iconType": "award",
+      "highlights": [
+        "Academic-level fluency",
+        "2,500+ characters",
+        "Professional writing",
+        "Interpretation prep"
+      ]
+    },
+    {
+      "id": 4,
+      "level": "Custom",
+      "title": "Business Chinese",
+      "duration": "Flexible",
+      "sessions": "Customized",
+      "price": "Contact Us",
+      "iconType": "briefcase",
+      "highlights": [
+        "Trade terminology",
+        "Negotiation scripts",
+        "Email & contract language",
+        "1-on-1 coaching"
+      ]
+    }
+  ]
+}
