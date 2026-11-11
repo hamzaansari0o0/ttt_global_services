@@ -1,0 +1,20 @@
+# Unused default Next.js template icons
+/file.svg
+/globe.svg
+/next.svg
+/vercel.svg
+/window.svg
+
+# Unreferenced images (not used by any page)
+/favicon.svg
+/ttt-logo.jpg
+/ttt-logo.png
+/ttt-navbar-logo.png
+/hod-pics/zeeshan.jpeg
+
+# Misc
+node_modules/
+Thumbs.db
+.DS_Store
+.env*
+*.zip
